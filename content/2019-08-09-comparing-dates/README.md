@@ -1,6 +1,16 @@
-# Social Media Snippets
+### Comparando datas no JavaScript
 
-Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
+![Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/2019-08-09-comparing-dates.jpg)
+
+
+Ao comparar datas, use o timestamp do objeto data e faça a comparação dos timestamps.
+
+Obs: nesse exemplo repare que o mês de Janeiro é 0.
+
+Obs2: repare que o timezonezone pode variar de acorcom com o timezone que você estiver.
+
+#javascript #nodejs #react
+
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
@@ -17,8 +27,3 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 [➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
 
 [➜ Veja os repositórios no Github](https://www.twitter.com/emersonbrogadev/)
-
-
-### Snippets
-
-[2019-08-09 - Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/README.md)
