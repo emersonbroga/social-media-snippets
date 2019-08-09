@@ -1,18 +1,19 @@
 # Social Media Snippets
 
-Olá! Se você acompanha as redes sociais do blog [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts serão disponibilizados.
+Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
 
-Os snippets estarão todos disponiveis aqui, para que você possa baixar e utilizar em seus projetos.
+#### Se ainda não segue, conheça as nossas Redes Sociais
 
+[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/)
 
-#### Acompanhe as nossas Redes Sociais
+[➜ Aprenda ES6](https://amzn.to/2J4XnLg)
 
-[Curta nossa página no facebook 👍](https://www.facebook.com/emersonbrogadev/)
+[➜ Veja as dicas no Instagram](https://www.instagram.com/emersonbrogadev/)
 
-[Não perca as atualizações no twitter 🐦](https://twitter.com/emersonbrogadev/)
+[➜ Assita nosso canal no YouTube](https://www.youtube.com/c/emersonbroga/)
 
-[Veja as dicas no instagram 📸](https://www.instagram.com/emersonbrogadev/)
+[➜ Curta nossa página no Facebook](https://www.facebook.com/emersonbrogadev/)
 
-[Siga nossos repositórios no github ⌨️](https://github.com/emersonbrogadev/)
+[➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
 
-[Faça parte da nossa lista de desenvolvedores 📨](https://emersonbroga.com/participe/)
+[➜ Veja os repositórios no Github](https://www.twitter.com/emersonbrogadev/)
