@@ -14,7 +14,7 @@ Obs2: repare que o timezonezone pode variar de acorcom com o timezone que você 
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/)
+[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2019-08-09)
 
 [➜ Aprenda ES6](https://amzn.to/2J4XnLg)
 

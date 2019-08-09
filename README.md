@@ -4,9 +4,9 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/)
+[➜ Participe da nossa lista de desenvolvedores](http://bit.ly/2yPahH6)
 
-[➜ Aprenda ES6](https://amzn.to/2J4XnLg)
+[➜ Aprenda ES6](https://amzn.to/2yS3Cfa)
 
 [➜ Veja as dicas no Instagram](https://www.instagram.com/emersonbrogadev/)
 
