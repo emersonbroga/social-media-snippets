@@ -3,6 +3,21 @@
 ![Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/2019-08-09-comparing-dates.jpg)
 
 
+Código para fácil acesso:
+
+```js
+const isSameTime = (a, b) => {
+  return a.getTime() === b.getTime();
+}
+
+const a = new Date(2019, 0, 1) 
+// 2019-01-01T00:00:00.000Z
+const b = new Date(2019, 0, 1) 
+// 2019-01-01T00:00:00.000Z
+isSameTime(a, b); 
+// true
+```
+
 Ao comparar datas, use o timestamp do objeto data e faça a comparação dos timestamps.
 
 Obs: nesse exemplo repare que o mês de Janeiro é 0.
