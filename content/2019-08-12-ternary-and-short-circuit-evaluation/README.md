@@ -20,7 +20,7 @@ const Band = (props) => {
 
 ```
 
-Nos nossos componentes muitas pessoas preferem usar ternários e outras perferem usar o short-circuit evaluation, o resultado apresentado é o mesmo porem a forma de escrever e a clareza do código se diferem.
+Nos nossos componentes muitas pessoas preferem usar ternários e outras perferem usar o short-circuit evaluation, o resultado apresentado é o mesmo porém a forma de escrever e a clareza do código se diferem.
 
 Além de deixar aqui a dica de que as duas formas são válidas, vou deixar também a seguinte pergunta:
 
