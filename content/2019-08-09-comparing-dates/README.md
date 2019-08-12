@@ -3,7 +3,7 @@
 ![Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/2019-08-09-comparing-dates.jpg)
 
 
-Código para fácil acesso:
+#### Código para fácil acesso:
 
 ```js
 const isSameTime = (a, b) => {
