@@ -21,7 +21,7 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
-[2019-08-13 - Destructuring Arguments](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-13-destructuring-arguments/2019-08-13-destructuring-arguments.jpg)
+[2019-08-13 - Destructuring Arguments](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-13-destructuring-arguments/README.md)
 
 [2019-08-12 - Ternário e Short-Circuit Evaluation](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-12-ternary-and-short-circuit-evaluation/README.md)
 
