@@ -21,8 +21,11 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+[2019-08-14 - "Self-Invoked Anonymous Function" ou "Immediately Invoked Function Expression" (IIFE)](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-14-self-invoked-anonymous-function/README.md)
+
 [2019-08-13 - Destructuring Arguments](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-13-destructuring-arguments/README.md)
 
 [2019-08-12 - Ternário e Short-Circuit Evaluation](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-12-ternary-and-short-circuit-evaluation/README.md)
 
 [2019-08-09 - Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/README.md)
+
