@@ -6,7 +6,7 @@
 
 #### Código para fácil acesso:
 
-```jsx
+```js
 // forma literal 
 const urlSlug = /^[a-z0-9-]+$/;
 
@@ -18,11 +18,16 @@ const urlSlug = new RegExp(/^[a-z0-9-]+$/);
 Para criar uma expressão regular no JavaScript, você pode criar da forma literal
 colocando sua expressão entre barras e atribuindo à uma variável 
 
+
+```js
 const urlSlug = /^[a-z0-9-]+$/;
+```
 
 Uma outra forma de criar uma regex é usando o construtor do objeto RegExp:
 
+```js
 const urlSlug = new RegExp(/^[a-z0-9-]+$/);
+```
 
 Perceba que ao criar a sua regex usando o construtor, você não precisa de colocar entre barras.
 
