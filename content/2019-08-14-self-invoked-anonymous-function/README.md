@@ -38,4 +38,4 @@ Uma dica bem simples mas que muitos desconhecem a existência.
 
 [➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
 
-[➜ Veja os repositórios no Github](https://www.github.com.com/emersonbrogadev/)
+[➜ Veja os repositórios no Github](https://www.github.com/emersonbrogadev/)
