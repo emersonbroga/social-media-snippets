@@ -16,7 +16,7 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 [➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
 
-[➜ Veja os repositórios no Github](https://www.twitter.com/emersonbrogadev/)
+[➜ Veja os repositórios no Github](https://www.github.com.com/emersonbrogadev/)
 
 
 ### Snippets

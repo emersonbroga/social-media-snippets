@@ -41,4 +41,4 @@ Obs2: repare que o timezonezone pode variar de acorcom com o timezone que você 
 
 [➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
 
-[➜ Veja os repositórios no Github](https://www.twitter.com/emersonbrogadev/)
+[➜ Veja os repositórios no Github](https://www.github.com.com/emersonbrogadev/)
