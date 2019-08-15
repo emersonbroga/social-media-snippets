@@ -11,7 +11,7 @@
 const urlSlug = /^[a-z0-9-]+$/;
 
 // usando o construtor o objeto RegExp
-const urlSlug = new RegExp(/^[a-z0-9-]+$/);
+const urlSlug = new RegExp('^[a-z0-9-]+$');
 
 ```
 
@@ -26,7 +26,7 @@ const urlSlug = /^[a-z0-9-]+$/;
 Uma outra forma de criar uma regex é usando o construtor do objeto RegExp:
 
 ```js
-const urlSlug = new RegExp(/^[a-z0-9-]+$/);
+const urlSlug = new RegExp('^[a-z0-9-]+$');
 ```
 
 Perceba que ao criar a sua regex usando o construtor, você não precisa de colocar entre barras.
@@ -35,6 +35,20 @@ Uma recomendação é de se usar o construtor quando por exemplo você estiver p
 de uma fonte externa, como o vinda de um usuário.
 
 Espero que tenham gostado!
+
+=== Errata: ====
+
+Nas redes sociais eu publiquei uma imagem com erro, corrigi a imagem aqui no github mas nas redes sociais não é possível atualizar a imagem da postagem, então segue aqui a correção.
+
+Na imagem eu mostro:
+
+const urlSlug = new RegExp(/^[a-z0-9-]+$/);
+
+enquanto na verdade deveria ser:
+
+const urlSlug = new RegExp('^[a-z0-9-]+$');
+
+=== /Errata: ====
 
 \#javascript \#nodejs \#react
 
