@@ -23,7 +23,7 @@ Espero que tenham gostado! Sabe qual é a banda?
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2019-08-16)
+[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2019-08-19)
 
 [➜ Aprenda ES6](https://amzn.to/2J4XnLg)
 
