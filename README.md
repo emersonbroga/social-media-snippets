@@ -21,6 +21,8 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+[2019-08-23 - Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/README.md)
+
 [2019-08-16 - Validando CEP com RegEx](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-16-validating-br-zip-with-regex/README.md)
 
 [2019-08-15 - Criando uma Expressão Regular (Regular Expression ou RegEx)](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-15-creating-regex/README.md)
