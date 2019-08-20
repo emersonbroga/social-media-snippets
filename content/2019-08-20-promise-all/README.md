@@ -1,7 +1,7 @@
 ### Promise.all()
 
 
-![Promise.all()](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-20-promise-all/2019-08-19-promise-all.jpg)
+![Promise.all()](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-20-promise-all/2019-08-20-promise-all.jpg)
 
 #### Código para fácil acesso:
 
