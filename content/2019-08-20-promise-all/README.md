@@ -14,8 +14,8 @@ Promise.all([
 
 ```
 
-Usando o Promise.all() você pode aguardar várias promisses serem executadas.
-O then() após o Promise.all() vai receber os resultados quando todas as promises forem resolvidas, e o catch() irá ser chamado caso alguma das promisses lance um erro.
+Usando o Promise.all() você pode aguardar várias promises serem executadas.
+O then() após o Promise.all() vai receber os resultados quando todas as promises forem resolvidas, e o catch() irá ser chamado caso alguma das promises lance um erro.
 
 Espero que tenham gostado! =)
 
