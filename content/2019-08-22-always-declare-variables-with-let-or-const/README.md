@@ -27,7 +27,11 @@ Espero que tenham gostado!
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-[➜ Participe da nossa lista de desenvolvedores](https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2019-08-22)
+<a href="https://emersonbroga.com/e/participe/?utm_source=github&utm_medium=social-media-snippets&utm_campaign=2019-08-22"><picture>
+<source type="image/webp" srcset="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg.webp">
+<img src="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg">
+</picture>
+</a>
 
 [➜ Aprenda ES6](https://amzn.to/2J4XnLg)
 
