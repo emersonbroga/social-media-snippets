@@ -18,7 +18,7 @@ drums; // Peart
 
 ```
 
-Sempre declare suas variáveis usando let ou const para não poulir o escopo global.
+Sempre declare suas variáveis usando let ou const para não poluir o escopo global.
 
 Espero que tenham gostado!
 
