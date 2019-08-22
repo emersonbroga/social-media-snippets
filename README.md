@@ -21,10 +21,11 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+[2019-08-22 - Sempre delcare suas variáveis com let ou const](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-22-always-declare-variables-with-let-or-const/README.md)
+
 [2019-08-20 - Promise.all()](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-20-promise-all/README.md)
 
 [2019-08-19 - Destructuring por índices](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-19-destructuring-by-indexes/README.md)
-
 
 [2019-08-16 - Validando CEP com RegEx](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-16-validating-br-zip-with-regex/README.md)
 
