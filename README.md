@@ -4,7 +4,11 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-[➜ Participe da nossa lista de desenvolvedores](http://bit.ly/2yPahH6)
+<a href="http://bit.ly/2yPahH6"><picture>
+<source type="image/webp" srcset="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg.webp">
+<img src="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg">
+</picture>
+</a>
 
 [➜ Aprenda ES6](https://amzn.to/2yS3Cfa)
 
