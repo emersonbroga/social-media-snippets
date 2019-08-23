@@ -21,6 +21,8 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+[2019-08-23 - Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/README.md)
+
 [2019-08-22 - Sempre declare suas variáveis com let ou const](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-22-always-declare-variables-with-let-or-const/README.md)
 
 [2019-08-20 - Promise.all()](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-20-promise-all/README.md)
