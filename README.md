@@ -12,6 +12,11 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+
+[2020-01-01](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-01/README.md)
+
+
+
 [2019-08-27 - Gerando número aleatório](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-27-random-int/README.md)
 
 [2019-08-23 - Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/README.md)
