@@ -20,11 +20,7 @@ new Promise((resolve, reject) => {
 
 ```
 
-Use promises para escrever um código mais limpo e acabar com o callback hell.
-Os pontos base para entender as Promise são o resolve, reject, then e catch.
-Após executar um código assincrono dentro de uma promise, você tem à sua disposição os metodos resolve e reject.
-Usando o resolve, você finaliza a promise com sucesso, passando o resultado que irá para o then.
-Usando o rejcet, você finaliza a promise com erro, passando o erro para o catch.
+Use promises para escrever um código mais limpo e acabar com o callback hell. Os pontos base para entender as Promise são o resolve, reject, then e catch. Após executar um código assíncrono dentro de uma promise, você tem à sua disposição os métodos resolve e reject. Usando o resolve, você finaliza a promise com sucesso, passando o resultado que irá para o then. Usando o reject, você finaliza a promise com erro, passando o erro para o catch.
 
 Espero que tenham gostado!
 
