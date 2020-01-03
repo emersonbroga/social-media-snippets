@@ -1,6 +1,6 @@
 ### Estrutura de uma Promise()
 
-![Estrutura de uma Promise()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-02/1080x1080-promise-structure.png)
+![Estrutura de uma Promise()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-03/1080x1080-promise-structure.png)
 
 #### Código para fácil acesso:
 
