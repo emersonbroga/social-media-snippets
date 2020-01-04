@@ -4,49 +4,38 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
-<a href="http://bit.ly/2yPahH6"><picture>
-<source type="image/webp" srcset="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg.webp">
-<img src="https://emersonbroga.com/wp-content/uploads/2019/08/subscription_banner.jpg">
-</picture>
-</a>
-
-[➜ Aprenda ES6](https://amzn.to/2yS3Cfa)
-
-[➜ Veja as dicas no Instagram](https://www.instagram.com/emersonbrogadev/)
-
-[➜ Assita nosso canal no YouTube](https://www.youtube.com/c/emersonbroga/)
-
-[➜ Curta nossa página no Facebook](https://www.facebook.com/emersonbrogadev/)
-
-[➜ Não perca as atualizações no Twitter](https://www.twitter.com/emersonbrogadev/)
-
-[➜ Veja os repositórios no Github](https://www.github.com/emersonbrogadev/)
-
+[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://www.instagram.com/emersonbrogadev/)
+[![youtube.com/c/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://www.youtube.com/c/emersonbroga/)
+[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://www.facebook.com/emersonbrogadev/)
+[![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://www.twitter.com/emersonbrogadev/)
+[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://www.github.com/emersonbroga/)
 
 ### Snippets
 
+[2020-01-03](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-03/README.md)
 
-[2019-08-27 - Gerando número aleatório](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-27-random-int/README.md)
+[2020-01-02](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-02/README.md)
 
-[2019-08-26 - Validando email com RegEx](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-26-email-validation-with-regex/README.md)
+[2020-01-01](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-01/README.md)
 
-[2019-08-23 - Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/README.md)
+[2019-08-27 - Gerando número aleatório](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-27-random-int/README.md)
 
-[2019-08-22 - Sempre declare suas variáveis com let ou const](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-22-always-declare-variables-with-let-or-const/README.md)
+[2019-08-23 - Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/README.md)
 
-[2019-08-20 - Promise.all()](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-20-promise-all/README.md)
+[2019-08-22 - Sempre declare suas variáveis com let ou const](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-22-always-declare-variables-with-let-or-const/README.md)
 
-[2019-08-19 - Destructuring por índices](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-19-destructuring-by-indexes/README.md)
+[2019-08-20 - Promise.all()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-20-promise-all/README.md)
 
-[2019-08-16 - Validando CEP com RegEx](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-16-validating-br-zip-with-regex/README.md)
+[2019-08-19 - Destructuring por índices](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-19-destructuring-by-indexes/README.md)
 
-[2019-08-15 - Criando uma Expressão Regular (Regular Expression ou RegEx)](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-15-creating-regex/README.md)
+[2019-08-16 - Validando CEP com RegEx](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-16-validating-br-zip-with-regex/README.md)
 
-[2019-08-14 - "Self-Invoked Anonymous Function" ou "Immediately Invoked Function Expression" (IIFE)](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-14-self-invoked-anonymous-function/README.md)
+[2019-08-15 - Criando uma Expressão Regular (Regular Expression ou RegEx)](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-15-creating-regex/README.md)
 
-[2019-08-13 - Destructuring Arguments](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-13-destructuring-arguments/README.md)
+[2019-08-14 - "Self-Invoked Anonymous Function" ou "Immediately Invoked Function Expression" (IIFE)](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-14-self-invoked-anonymous-function/README.md)
 
-[2019-08-12 - Ternário e Short-Circuit Evaluation](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-12-ternary-and-short-circuit-evaluation/README.md)
+[2019-08-13 - Destructuring Arguments](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-13-destructuring-arguments/README.md)
 
-[2019-08-09 - Comparando datas no JavaScript](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/README.md)
+[2019-08-12 - Ternário e Short-Circuit Evaluation](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-12-ternary-and-short-circuit-evaluation/README.md)
 
+[2019-08-09 - Comparando datas no JavaScript](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2019-08-09-comparing-dates/README.md)

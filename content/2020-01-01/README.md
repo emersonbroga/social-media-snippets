@@ -1,19 +1,23 @@
-### Redirecionamento em JavaScript mantendo os parâmetros da URL
+### Object.values()
 
-![Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/2019-08-23-javascript-redirect-keeping-the-url-params.jpg)
+![Object.values()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-01/1080x1080-object-values.png)
 
 #### Código para fácil acesso:
 
 ```js
-const redirectWithParams = destination => {
-  const query = window.location.search || "";
-  const result = `${destination}${query}`;
-  window.location = result;
+const band = {
+  vocals: "stanley",
+  bass: "simmons",
+  guitar: "thayer",
+  drums: "singer"
 };
-redirectWithParams("https://emersonbroga.com");
+
+const names = Object.values(band);
+console.log(names);
+// ["stanley", "simmons", "thayer", "singer"]
 ```
 
-Se você quiser fazer um redirecionamento usando JavaScript e quiser manter os mesmo parâmetros da url (querystring) que a página está recebendo, você consegue facilmente, basta pegar o `document.location.search` e concatená-lo com sua url de destino.
+Usando o Object.values() você recebe um array com os valores de cada item do objeto!
 
 Espero que tenham gostado!
 

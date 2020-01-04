@@ -1,19 +1,30 @@
-### Redirecionamento em JavaScript mantendo os parâmetros da URL
+### Entendendo o .toString()
 
-![Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/2019-08-23-javascript-redirect-keeping-the-url-params.jpg)
+![.toString()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-02/1080x1080-to-string.png)
 
 #### Código para fácil acesso:
 
 ```js
-const redirectWithParams = destination => {
-  const query = window.location.search || "";
-  const result = `${destination}${query}`;
-  window.location = result;
+const Person = function(name) {
+  this.name = name;
 };
-redirectWithParams("https://emersonbroga.com");
+
+const p = new Person("Emerson");
+
+console.log(`Hello ${p}!`); // Hello [object Object]!
+
+Person.prototype.toString = function() {
+  return `${this.name}`;
+};
+
+console.log(`Hi ${p}!`); // Hi Emerson!
 ```
 
-Se você quiser fazer um redirecionamento usando JavaScript e quiser manter os mesmo parâmetros da url (querystring) que a página está recebendo, você consegue facilmente, basta pegar o `document.location.search` e concatená-lo com sua url de destino.
+O método toString é chamado automaticamente quando tentamos converter um Objeto em String, seja de forma explícita ou implícita.
+
+Porém alguns objetos o JavaScript simplesmente não sabe o que fazer ao converter para string, então ele retorna [object Object].
+
+Porém você pode atribuir uma função ao toString para que ela funcione como você definir.
 
 Espero que tenham gostado!
 

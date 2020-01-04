@@ -1,19 +1,26 @@
-### Redirecionamento em JavaScript mantendo os parâmetros da URL
+### Estrutura de uma Promise()
 
-![Redirecionamento em JavaScript mantendo os parâmetros da URL](https://github.com/emersonbrogadev/social-media-snippets/blob/master/content/2019-08-23-javascript-redirect-keeping-the-url-params/2019-08-23-javascript-redirect-keeping-the-url-params.jpg)
+![Estrutura de uma Promise()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-03/1080x1080-promise-structure.png)
 
 #### Código para fácil acesso:
 
 ```js
-const redirectWithParams = destination => {
-  const query = window.location.search || "";
-  const result = `${destination}${query}`;
-  window.location = result;
-};
-redirectWithParams("https://emersonbroga.com");
+new Promise((resolve, reject) => {
+  // qualquer função assícrona
+  if (/* tudo ok */) {
+    resolve();
+  }else{
+    reject();
+  }
+}).then((result)=> {
+  // faça alguma coisa com o "result"
+}).catch((error)=>{
+  // faça alguma coisa com o "error"
+});
+
 ```
 
-Se você quiser fazer um redirecionamento usando JavaScript e quiser manter os mesmo parâmetros da url (querystring) que a página está recebendo, você consegue facilmente, basta pegar o `document.location.search` e concatená-lo com sua url de destino.
+Use promises para escrever um código mais limpo e acabar com o callback hell. Os pontos base para entender as Promise são o resolve, reject, then e catch. Após executar um código assíncrono dentro de uma promise, você tem à sua disposição os métodos resolve e reject. Usando o resolve, você finaliza a promise com sucesso, passando o resultado que irá para o then. Usando o reject, você finaliza a promise com erro, passando o erro para o catch.
 
 Espero que tenham gostado!
 
