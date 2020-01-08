@@ -1,6 +1,6 @@
 ### getWindowSize
 
-![getWindowSize](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-08/1080x1080-get-window-size)
+![getWindowSize](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-08/1080x1080-get-window-size.png)
 
 #### Código para fácil acesso:
 
