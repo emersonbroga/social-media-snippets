@@ -1,6 +1,6 @@
 ### for...of
 
-![for...of](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-12/1080x1080-for-of.png)
+![for...of](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-19/1080x1080-for-of.png)
 
 #### Código para fácil acesso:
 
