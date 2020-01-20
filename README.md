@@ -12,6 +12,8 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 
 ### Snippets
 
+[2020-01-20](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-20/README.md)
+
 [2020-01-19](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-19/README.md)
 
 [2020-01-18](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-18/README.md)
