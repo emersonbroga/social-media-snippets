@@ -17,7 +17,7 @@ Boolean(like); // true
 Converter para Boolean
 
 É muito comum no JavaScript (e também em outras linguagem de programação) a necessidade de converter um valor para boolean. No JS uma das formas de fazer isso é usando a classe Boolean() tanto criando uma nova instancia quanto apenas chamando de forma mais direta (me fugiu o nome certo).
-A outra opção que tem sido cada vez mais utilizada é a de dupla negação (!!), ou seja, você nega o valor, caso seja true ele vira false, e caso seja false ele vira true e em seguida nega novamente, fazendo com que ele se transorme ao correspondente booleano original.
+A outra opção que tem sido cada vez mais utilizada é a de dupla negação (!!), ou seja, você nega o valor, caso seja true ele vira false, e caso seja false ele vira true e em seguida nega novamente, fazendo com que ele se transforme ao correspondente booleano original.
 
 Espero que tenham gostado!
 
