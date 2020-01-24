@@ -1,20 +1,20 @@
-### Array Shift
+### Removendo números duplicados dos arrays
 
-![Array Shift ](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-23/1080x1080-array-shift.png)
+![Removendo números duplicados dos arrays](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-23/1080x1080-array-shift.png)
 
 #### Código para fácil acesso:
 
 ```js
-const band = ["Burton", "Hetfield", "Ulrich", "Hammett"];
+const numbers = [1, 2, 3, 3, 4, 5, 8, 9, 5, 1, 2, 9, 4, 6, 7];
 
-band.shift();
+const unique = [...new Set(numbers)];
+
+// [ 1, 2, 3, 4, 5, 8, 9, 6, 7 ]
 ```
 
-Array Shift
+Removendo números duplicados dos arrays
 
-Quando você precisa remover o primeiro item do array, uma das coisas que você fazer é usar o array.shift().
-Ele remove o primeiro item do array, deixando o array original com um item a menos.
-Essa é apenas uma das formas de fazer isso, mas caso você não conheça o array.shift fica aí a dica.
+Quando você tem um array de números e quer remover os itens duplicados, você pode utilizar o Set e o spread operator para eliminar os valores duplicados.
 
 Espero que tenham gostado!
 
