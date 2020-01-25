@@ -1,6 +1,6 @@
 ### typeof | instance of | constructor
 
-![typeof | instance of | constructor](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-24/1080x1080-typeof-instanceof-constructor.png)
+![typeof | instance of | constructor](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-25/1080x1080-typeof-instanceof-constructor.png)
 
 #### Código para fácil acesso:
 
