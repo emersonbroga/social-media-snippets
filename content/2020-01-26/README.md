@@ -12,7 +12,7 @@ console.log(band.length); // 5
 
 Tamanho do Array (array.length)
 
-No JavaScript, assim como outras linguagens é sempre muito útil saber o tamanho de array, e no caso do JavaScript os arrays tem um método lenght que retorna a quantidade items que o array possui.
+No JavaScript, assim como outras linguagens é sempre muito útil saber o tamanho de array, e no caso do JavaScript os arrays tem um método length que retorna a quantidade items que o array possui.
 
 Espero que tenham gostado!
 
