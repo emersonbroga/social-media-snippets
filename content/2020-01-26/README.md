@@ -1,6 +1,6 @@
 ### Tamanho do Array (array.length)
 
-![Tamanho do Array (array.length)](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-26/1080x1080-array.length.png)
+![Tamanho do Array (array.length)](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-01-26/1080x1080-array-length.png)
 
 #### Código para fácil acesso:
 
