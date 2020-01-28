@@ -1,4 +1,4 @@
-const follow '@emersonbrogadev';
+const follow = "@emersonbrogadev";
 
 follow.charAt(0); // @
 
