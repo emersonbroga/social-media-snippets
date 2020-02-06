@@ -1,0 +1,13 @@
+<input type="text" id="name" />
+
+<button id="copy">Copy</button>
+
+<script type="text/javascript">
+  const textInput = document.getElementById("name");
+  const copyButton = document.getElementById("copy");
+
+  copyButton.addEventListener("click", () => {
+    textInput.select();
+    document.execCommand("copy");
+  });
+</script>
