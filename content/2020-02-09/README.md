@@ -1,34 +1,26 @@
-### Array.some();
+### 3 formas de clonar objetos;
 
-![Array.some()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-08/1080x1080-some.png)
+![3 formas de clonar objetos](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-09/1080x1080-clone-objects.png)
 
 #### Código para fácil acesso:
 
 ```js
-const movies = [
-  { title: "Matrix", genre: "fiction" },
-  { title: "Borat", genre: "comedy" },
-  { title: "Gladiator", genre: "drama" },
-];
+const project = {frontend: 'react', backend: 'express' };
 
-// verifica se é comédia
-const checkIsComedy = movie => movie.genre === "comedy";
+// spread
+{ ...project};
 
-// verifica se é ação
-const checkIsAction = movie => movie.genre === "action";
+// object.assign
+Object.assign({}, project);
 
-// tem algum filme de comédia?
-const hasComedy = movies.some(checkIsComedy); // true;
-
-// tem algum filme de açao?
-const hasAction = movies.some(checkIsAction); // false;
+// JSON
+JSON.parse(JSON.stringify(project));
 ```
 
-Array.some()
+3 formas de clonar objetos
 
-Se você quiser verificar se pelo menos um item do array atende a algum critério, você pode usar o array.some() passando sua função de verificação. Ela precisa apenas de retornar true ou false.
-
-O interessante é que a array.some() irá sair do loop quando o critério for atendido, ajudando na performance.
+Hoje vou mostrar 3 formas de clonar objetos em JavaScript.
+A primeira forma, usando o spread operator, é a forma mais moderna de se clonar um objeto, mas você pode fazer isso tambem, usando o Object.assign, que na verdade é uma função para atribuir novas propriedades a um objeto. E por fim você pode usar a JSON.stringify em conjunto com a JSON.parse.
 
 Espero que tenham gostado!
 
