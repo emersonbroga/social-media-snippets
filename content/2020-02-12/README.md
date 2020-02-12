@@ -1,6 +1,6 @@
 ### array.every();
 
-![array.every()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-11/1080x1080-every.png)
+![array.every()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-12/1080x1080-every.png)
 
 #### Código para fácil acesso:
 
