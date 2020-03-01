@@ -1,6 +1,26 @@
-# Social Media Snippets
+### Intercessão de arrays
 
-Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
+![Intercessão de arrays](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-26/1080x1080-array-intersection.png)
+
+#### Código para fácil acesso:
+
+```js
+const intersection = (a, b) => {
+  const s = new Set(b);
+  return a.filter(x => s.has(x));
+};
+
+intersection([1, 2, 3, 4], [3, 4, 5, 6]);
+// [3, 4]
+```
+
+Intercessão de arrays
+
+Com esse simples snippet, conseguimos pegar a intercessão dos arays em JavaScript.
+
+Espero que tenham gostado!
+
+\#javascript \#nodejs \#react
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
@@ -9,11 +29,3 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 [![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
 [![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
 [![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
-
-### Snippets
-
-[2020-02](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-02/README.md)
-
-[2020-01](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-01/README.md)
-
-[2019](https://github.com/emersonbroga/social-media-snippets/blob/master/2019/README.md)

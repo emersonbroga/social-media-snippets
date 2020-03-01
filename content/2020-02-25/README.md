@@ -1,6 +1,21 @@
-# Social Media Snippets
+### Short Circuit Evaluation
 
-Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
+![Short Circuit Evaluation](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-25/1080x1080-short-circuit-evaluation.png)
+
+#### Código para fácil acesso:
+
+```js
+const Band = ({ isPlaying }) => isPlaying && <h1>Hell YEAH!</h1>;
+```
+
+Short Circuit Evaluation
+
+No JavaScript existe o conceito de Short Circuit Evaluation, que é quando você usa uma variavel seguida de "&&" e depois o valor a ser retornado.
+Caso a variável seja verdadeira ao se converter para boleano o valor depois do "&&" é retornado.
+
+Espero que tenham gostado!
+
+\#javascript \#nodejs \#react
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
@@ -9,11 +24,3 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 [![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
 [![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
 [![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
-
-### Snippets
-
-[2020-02](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-02/README.md)
-
-[2020-01](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-01/README.md)
-
-[2019](https://github.com/emersonbroga/social-media-snippets/blob/master/2019/README.md)

@@ -1,6 +1,23 @@
-# Social Media Snippets
+### Gerando cor RGB Aleatóriamente
 
-Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
+![Gerando cor RGB Aleatóriamente](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-28/1080x1080-random-rgb.png)
+
+#### Código para fácil acesso:
+
+```js
+const randomRGB = () => {
+  const random = () => Math.floor(Math.random() * 256);
+  return `rgb(${random()}, ${random()}, ${random()})`;
+};
+```
+
+Gerando cor RGB Aleatóriamente
+
+Com esse simples snippet você consegue gerar cores aleatórias em JavaScript!
+
+Espero que tenham gostado!
+
+\#javascript \#nodejs \#react
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
@@ -9,11 +26,3 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 [![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
 [![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
 [![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
-
-### Snippets
-
-[2020-02](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-02/README.md)
-
-[2020-01](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-01/README.md)
-
-[2019](https://github.com/emersonbroga/social-media-snippets/blob/master/2019/README.md)

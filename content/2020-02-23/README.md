@@ -1,6 +1,26 @@
-# Social Media Snippets
+### Gerando números aleatórios
 
-Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [EmersonBroga.com](https://emersonbroga.com/), este é o repositório onde os snippets dos posts são disponibilizados.
+![Gerando números aleatórios](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-02-23/1080x1080-random-number.png)
+
+#### Código para fácil acesso:
+
+```js
+const rand = (minimum, maximum) => {
+  const min = Math.ceil(minimum);
+  const max = Math.floor(maximum);
+  return Math.floor(Math.random() * (max - min + 1) + min);
+};
+
+rand(1, 60);
+```
+
+Gerando números aleatórios
+
+Apenas mais um snippet para gerar números aleatórios com JavaScript.
+
+Espero que tenham gostado!
+
+\#javascript \#nodejs \#react
 
 #### Se ainda não segue, conheça as nossas Redes Sociais
 
@@ -9,11 +29,3 @@ Olá! Se você acompanha as redes sociais do @emersonbrogadev e também o site [
 [![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
 [![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
 [![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
-
-### Snippets
-
-[2020-02](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-02/README.md)
-
-[2020-01](https://github.com/emersonbroga/social-media-snippets/blob/master/2020-01/README.md)
-
-[2019](https://github.com/emersonbroga/social-media-snippets/blob/master/2019/README.md)
