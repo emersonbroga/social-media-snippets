@@ -1,25 +1,20 @@
-### JSON.stringify()
+### Object.is();
 
-![JSON.stringify()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-03-04/1080x1080-remove.png)
+![Object.is()](https://github.com/emersonbroga/social-media-snippets/blob/master/content/2020-03-11/1080x1080-object-is.png)
 
 #### Código para fácil acesso:
 
 ```js
-const band = { bass: 'Lee', guitar: 'Lifeson', drums: 'Peart' };
-
-const result = JSON.stringify(band, (key, value) => {
-  if (key === 'drums') return `RIP Mr ${value}`;
-  return value;
-});
-
-console.log(result);
-// "{\"bass\":\"Lee\",\"guitar\":\"Lifeson\",\"drums\":\"RIP Mr Peart\"}"
+Object.is(0, ' '); //false
+Object.is(null, undefined); //false
+Object.is([1], true); //false
+Object.is(NaN, NaN); //true
 ```
 
-JSON.stringify()
+Object.is();
 
-Você sabia que você pode passar uma função como segundo parâmetro do JSON.stringify() para alterar o resultado da conversão do objeto para string JSON?
-Essa função será executada para cada item do objeto, e receberá a chave (key) e o valor (value) e dentro dessa função você pode simplesmente alterar o resultado a ser gerado da forma que desejar.
+Uma forma que você pode utilizar para verificar igualdade entre valor e tipo é o Object.is().
+Ele tem a mesma função do === porém ele tras algumas melhorias como você pode ver na tabela.
 
 \#javascript \#nodejs \#react
 
